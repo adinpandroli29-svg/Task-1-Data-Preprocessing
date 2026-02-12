@@ -1,6 +1,6 @@
 # Task-1-Data-Preprocessing
 AI &amp; ML Internship - Task 1: Data Cleaning &amp; Preprocessing using Titanic Dataset
-## 📌 Objective
+##  Objective
 The objective of this task is to clean and preprocess the Titanic dataset to prepare it for machine learning model development.
 
 ## 🛠 Tools & Technologies Used
@@ -11,7 +11,7 @@ The objective of this task is to clean and preprocess the Titanic dataset to pre
 - Seaborn
 - Scikit-learn
 
-## 🔎 Steps Performed
+##  Steps Performed
 
 1. Imported required libraries.
 2. Loaded the Titanic dataset using Pandas.
@@ -22,13 +22,13 @@ The objective of this task is to clean and preprocess the Titanic dataset to pre
 7. Applied feature scaling using StandardScaler.
 8. Visualized outliers using boxplots.
 
-## 📊 Data Preprocessing Techniques Used
+##  Data Preprocessing Techniques Used
 - Missing Value Imputation
 - Categorical Encoding
 - Feature Scaling
 - Outlier Detection
 
-## ✅ Conclusion
+##  Conclusion
 The dataset was successfully cleaned and preprocessed. 
 All missing values were handled, categorical variables were encoded, 
 and numerical features were scaled. The dataset is now ready 
