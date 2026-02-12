@@ -3,7 +3,7 @@ AI &amp; ML Internship - Task 1: Data Cleaning &amp; Preprocessing using Titanic
 ##  Objective
 The objective of this task is to clean and preprocess the Titanic dataset to prepare it for machine learning model development.
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - Python
 - Pandas
 - NumPy
